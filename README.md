@@ -1,5 +1,4 @@
-# Aura Lab – 3D Web Experience
-
+# Lab -  Algoryx Community 3D asset:
 A polished React + Vite landing page that highlights a lightweight, interactive 3D scene and modern UI design inspired by the Algoryx Community challenge.
 
 ## Features
