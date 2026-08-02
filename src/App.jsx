@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="app-shell">
       <header className="topbar">
-        <div className="brand">AURA LAB</div>
+        <div className="brand">ALGORYX 3D EXPERIENCE</div>
         <nav className="nav-links">
           <a href="#experience">Experience</a>
           <a href="#journey">Journey</a>
